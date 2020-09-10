@@ -8,6 +8,8 @@ twine = "*"
 jupyter = "*"
 
 [packages]
+sklearn = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
